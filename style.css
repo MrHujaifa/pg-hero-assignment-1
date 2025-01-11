@@ -134,8 +134,8 @@ ul li{
 }
 .Pillars-card:hover{
     background-color: #C6E4D6;
-    transition: 0.8s ease;
-    transform: scale(1.2);
+    transition: 0.5s ease;
+    transform: scale(1.1);
 }
 
 .Pillars-card img{
